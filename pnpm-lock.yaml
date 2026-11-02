@@ -10,10 +10,10 @@ importers:
     dependencies:
       '@bueno-dev/type':
         specifier: ^1.1.9
-        version: 1.1.9
+        version: 1.1.10
       '@netlify/plugin-nextjs':
         specifier: ^5.8.1
-        version: 5.16.4
+        version: 5.16.5
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -149,8 +149,8 @@ packages:
     resolution: {integrity: sha512-WCsemW40Cpc6gouC1SrY6PBaZ+oLRlEVY9XBvZBI7il/HyUrb2nJ505wE1MHEFyDZNnrWDEuy4jL50WVHfTTSQ==}
     engines: {node: '>=6.9.0'}
 
-  '@bueno-dev/type@1.1.9':
-    resolution: {integrity: sha512-aLyKsG0kZaqkK7xhXilztLXbFZ5i60ir8I1+Q70Vng7hQhOJPvkAARPJi879IY+mGbpxxL8xTXVJJvSC5Iji4A==}
+  '@bueno-dev/type@1.1.10':
+    resolution: {integrity: sha512-qQZQEwC+fpx/JGnH+xmRFfGRFlFJWV/frVqvHFn61BWW75iEcStpmA/95TE/QZkIgu1Jc0UR4fy1vtPVuwHqig==}
     engines: {node: '>=18.0.0'}
 
   '@csstools/selector-resolve-nested@3.1.0':
@@ -426,8 +426,8 @@ packages:
       '@emnapi/core': ^1.7.1 || 2.0.0-beta.2
       '@emnapi/runtime': ^1.7.1 || 2.0.0-beta.2
 
-  '@netlify/plugin-nextjs@5.16.4':
-    resolution: {integrity: sha512-yvFqkPxCeDrdC9y51Fxt5rK0lNWPo+esoc5uYbHBkM6kgop7s7jL2NtFFjN8g5SitbCnXoVm+dOlrgKEYfdx2g==}
+  '@netlify/plugin-nextjs@5.16.5':
+    resolution: {integrity: sha512-pt0j/YCZr5Kn2ziGS4Ps+RvREEn5LN2M9iv9iqEgNWZGb4esu7MCMy4RIYS0UR3JuBHxVtsvPHo0gEv+RKFpag==}
     engines: {node: '>=18.0.0'}
 
   '@next/env@16.4.3':
@@ -2328,7 +2328,7 @@ snapshots:
       '@babel/helper-string-parser': 7.29.11
       '@babel/helper-validator-identifier': 7.29.7
 
-  '@bueno-dev/type@1.1.9': {}
+  '@bueno-dev/type@1.1.10': {}
 
   '@csstools/selector-resolve-nested@3.1.0(postcss-selector-parser@7.1.7)':
     dependencies:
@@ -2559,7 +2559,7 @@ snapshots:
       '@tybys/wasm-util': 0.10.4
     optional: true
 
-  '@netlify/plugin-nextjs@5.16.4': {}
+  '@netlify/plugin-nextjs@5.16.5': {}
 
   '@next/env@16.4.3': {}
 
